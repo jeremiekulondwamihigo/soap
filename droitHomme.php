@@ -9,14 +9,7 @@
                             <div class="breatcome-title">
                                 <h1>Droit de l'homme</h1>
                             </div>
-                            <div class="bratcome-text">
-                                <ul>
-                                    <li>
-                                        <a href="index.html">Home</a>
-                                    </li>
-                                    <li>Service</li>
-                                </ul>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -40,6 +33,12 @@
                                 <h2>La SOA-P intervient dans le domaine de</h2>
                                 <h2>droit de l'homme</h2>
                             </div>
+                            <div class="section-main-title">
+                                <h4>
+                                La SOA-P contribue au renforcement des systèmes et mécanismes régionaux sur les
+                                 droits de l’homme en RDC
+                                </h4>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -56,7 +55,7 @@
                                     </h4>
                                 </div>
                                 <div class="service-four-icon-thumb">
-                                    <img src="assets/images/droitHomme/bg.png" alt="">
+                                    <img src="assets/images/droitHomme/bg1.png" alt="">
                                 </div>
                             </div>
                             <div class="service-four-btn">
@@ -67,21 +66,28 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="service-items-four">
                             <div class="service-four-thumb">
-                                <img src="assets/images/droitHomme/droit3.png" alt="">
+                                <img src="assets/images/droitHomme/droit7.png" alt="">
                             </div>
                             <div class="service-four-content">
-                                <div class="service-four-title">
+                                <div class="service-four-title mt-3">
                                     <h4>
-                                        <a href="#">Protocole de Maputo</a>
+                                        Forum africain des ONG<sub>s</sub>
                                     </h4>
                                 </div>
-                                <div class="service-four-icon-thumb">
-                                    <img src="assets/images/droitHomme/bg.png" alt="">
-                                </div>
+                               
                             </div>
                             <div class="service-four-btn">
                                
-                                    Domestication du protocole de Maputo et à l’établissement de rapports y relatifs 
+                                    <p>
+                                    Participation de la SOA-P aux travaux de la 77ème Session ordinaire de la Commission 
+Africaine des droits de l’homme et des peuples du 19 Octobre au 11 Novembre 2023 au 
+Centre de conférence internationale de la République unie de Tanzanie. 
+                                    </p>
+                                    <p>
+                                        
+Un appel à la ratification universelle, à la mise en œuvre, à la domestication du protocole de 
+Maputo et à l’établissement de rapports y relatifs (21 Octobre 2023, ARUSHA/TANZANIE). 
+                                    </p>
                                 
                             </div>
                         </div>
@@ -94,16 +100,23 @@
                             <div class="service-four-content">
                                 <div class="service-four-title">
                                     <h4>
-                                        <a href="#">Violences</a>
+                                       
+                                        77ème Session ordinaire de la Commission
+                                         Africaine des droits de l’homme et des peuples 
+                                      
                                     </h4>
                                 </div>
-                                <div class="service-four-icon-thumb">
-                                    <img src="assets/images/droitHomme/bg.png" alt="">
-                                </div>
+                               
                             </div>
                             <div class="service-four-btn">
                                
-                                    renforcement des systèmes et mécanismes régionaux et internationaux sur les violences 
+                          <p class="mt-4">
+                          Participation de la SOA-P aux travaux de la 77<sup>eme</sup> Session ordinaire de la Commission 
+Africaine des droits de l’homme et des peuples du 19 Octobre au 11 Novembre 2023 au 
+Centre de conférence internationale de la République unie de Tanzanie. 
+Un appel à la ratification universelle, à la mise en œuvre, à la domestication du protocole de 
+Maputo et à l’établissement de rapports y relatifs (21 Octobre 2023, ARUSHA/TANZANIE).
+                          </p>
                                
                             </div>
                         </div>
@@ -111,20 +124,22 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="service-items-four">
                             <div class="service-four-thumb">
-                                <img src="assets/images/droitHomme/droit6.png" alt="">
+                                <img src="assets/images/droitHomme/service8.png" alt="">
                             </div>
                             <div class="service-four-content">
                                 <div class="service-four-title">
                                     <h4>
-                                        <a href="#">Droit de l'homme</a>
+                                       Mécanismes régionaux et internationaux sur les droits de l'homme
                                     </h4>
                                 </div>
-                                <div class="service-four-icon-thumb">
-                                    <img src="assets/images/service/service-icon10.png" alt="">
-                                </div>
+                              
                             </div>
                             <div class="service-four-btn">
-                                Célébration de la 75ème anniversaire de la déclaration universelle des droits Humains
+                            Participation de la SOA-P à l’atelier de formation des formateurs sur la participation et 
+l’engagement avec la commission africaine des droits de l’homme et des peuples, facilité par 
+International Service for Human Rights (ISHR) et organisé par ACDHRS et l’Union 
+Panafricaine des Avocats au profits des défenseurs des droits de l’homme des pays africains 
+du 13 au 15 Octobre 2023 dans la salle de l’hôtel palace d’ARUSHA/TANZANIE
                             </div>
                         </div>
                     </div>
@@ -136,16 +151,17 @@
                             <div class="service-four-content">
                                 <div class="service-four-title">
                                     <h4>
-                                        <a href="#">Commission africaine</a>
+                                        Commission africaine de droit de l'homme et des peuples
                                     </h4>
                                 </div>
-                                <div class="service-four-icon-thumb">
-                                    <img src="assets/images/droitHomme/bg.png" alt="">
-                                </div>
+                               
                             </div>
                             <div class="service-four-btn">
                                
-                                Travaux de la 77<sup>ème</sup> Session ordinaire de la Commission Africaine des droits de l’homme et des peuples 
+                            Participation de la SOA-P au Forum des ONGs Africaines à la 77ème Session ordinaire de la 
+Commission Africaine des droits de l’homme et des peuples et 42ème foire africaine du Livre 
+des Droits de l’homme du 16-18 Octobre 2023 au Centre de conférence internationale de la 
+République unie de Tanzanie. 
                                 
                             </div>
                         </div>
@@ -158,16 +174,15 @@
                             <div class="service-four-content">
                                 <div class="service-four-title">
                                     <h4>
-                                        <a href="#">Commission africaine</a>
+                                       BCNDH dans les pays de grands lacs
                                     </h4>
                                 </div>
-                                <div class="service-four-icon-thumb">
-                                    <img src="assets/images/droitHomme/bg.png" alt="">
-                                </div>
+                               
                             </div>
                             <div class="service-four-btn">
                                
-                                77<sup>ème</sup> Session ordinaire de la Commission Africaine des droits de l’homme 
+                            Renforcent des capacités des organisations de la société civile congolaise sur renforcement 
+des mécanismes de prévention des violations des droits de l’homme en RDC.
                                 
                             </div>
                         </div>

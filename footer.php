@@ -29,6 +29,19 @@
                             </div>
                             <div class="footer-widget-contct-menu">
                                 <ul>
+                               <li>
+                               <a href="#">soa.cd.rdc@gmail.com </a>
+
+                               </li> 
+                               <li>
+                               <a href="#">soa.paix.rdc@gmail.com </a>
+                               </li>
+                               <li>
+                                
+                                <a href="#">soa.paix.partenariat@gmail.com</a>
+                               </li>
+
+
                                     <li>
                                         <a href="#">( +243 ) 991636370
                                         </a>
@@ -36,12 +49,8 @@
                                     <li>
                                         <a href="#">( +243 ) 824866237</a>
                                     </li>
-                                    <li class="line">
-                                        <a href="mailto:soa.cd.rdc@gmail.com">soa.cd.rdc@gmail.com</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">175 10h Street, Office 375 Berlin, De 21562</a>
-                                    </li>
+                                   
+                                   
                                 </ul>
                             </div>
                         </div>

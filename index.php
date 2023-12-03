@@ -1,12 +1,4 @@
-<?php require "header.php"; ?>
-        <!--==================================================-->
-        <!-- End Thrown Sidebar Area -->
-        <!--==================================================-->
-
-        <!--==================================================-->
-        <!-- Start Thrown Slider Area -->
-        <!--==================================================-->
-        
+<?php require 'header.php'; ?>        
             <div class="slider-list owl-carousel"> <div class="slider-area">
                 <div class="container">
                     <div class="row">
@@ -16,21 +8,18 @@
                                     <h4>Aide des donateurs</h4>
                                 </div>
                                 <div class="slider-main-title">
-                                    <h1>Lorsque vous faites
+                                    <h1>Lorsque vous faites un don à la SOA-P vous contribuez
+                                          aux œuvres caritatives
+                                         les mieux notées en RDC
                                     </h1>
-                                    <h1>un don à la SOA-P vous contribuez
-                                    </h1>
-                                    <h1>aux œuvres caritatives</h1>
-                                    <h1>les mieux notées en RDC</h1>
+                                   
                                 </div>
                                 <div class="thrown-btn slider2">
                                     <a class="header-button" href="contact-us.php">Faire un don<span></span>
                                     </a>
                                 </div>
                             </div>
-                            <div class="slider-shape3 dance3">
-                                <img src="assets/images/slider/shape3.png" alt="">
-                            </div>
+                          
                         </div>
                     </div>
                 </div>
@@ -44,11 +33,39 @@
                                     <h4>Notre vision</h4>
                                 </div>
                                 <div class="slider-main-title">
-                                    <h1>Vivre dans un monde</h1>
-                                    <h1>de Paix, Stable,</h1>
-                                    <h1>
-                                        Pacifié et Développé.</h1>
+                                    <h1>Vivre dans un monde
+                                    de Paix, Stable,
+                                    
+                                        Pacifié et Développé.
+                                        </h1>
                                 </div>
+                                <div class="thrown-btn slider2">
+                                    <a class="header-button" href="contact-us.php">Contact<span></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-area three">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="slider-content style-two">
+                                <div class="slider-sub-title style-three">
+                                    <h4>
+                                     
+                                     
+                                    </h4>
+                                </div>
+                                <div class="slider-main-title">
+                                    <h1>La SOA-P assure la
+                                    prise en charge médicale
+                                    intégrée (soins de santé, nutrition et WASH) et psychosociale
+                                    </h1>
+                                </div>
+                              
                                 <div class="thrown-btn slider2">
                                     <a class="header-button" href="contact-us.php">Contact<span></span>
                                     </a>
@@ -88,8 +105,8 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-main-title style-two">
                             <h2>Solidarité des Organisations
-                            </h2>
-                            <h2>d’Appui à la Paix</h2>
+                            
+                            d’Appui à la Paix</h2>
                         </div>
                         <div class="about-content">
                             <div class="about-discribtion style-two">
@@ -98,7 +115,7 @@
                                     								 congolais, légalement constituée œuvrant en
                                     								  priorité dans le volet humanitaire et de développement.
                                 </p>
-                                <p>La SOA-P est une plateforme constituée de quatre-vingt-quatre
+                                <p>La SOA-P est une plateforme constituée des
                                     									 organisations locales et nationales de la société civile congolaise 
                                     									 des femmes, des jeunes et des minorités</p>
                             </div>
@@ -125,7 +142,7 @@
                             </div>
                             <div class="contact-discription">
                                 <p>
-                                    Quand on veut la paix on soutiennent les Organisations d'Appui à la Paix
+                                    Recherchons la paix en République Démocratique du Congo en soutenant les actions de la SOA-P
                                 </p>
                             </div>
                             <div class="thrown-btn contact">
@@ -169,20 +186,20 @@
                 </div>
                 <div class="row">
                     <div
-                        class="col-md-6 col-xl-3">
+                        class="col-md-6 col-lg-3 col-xl-4">
                         <!-- start service items box -->
                         <div class="service-items-box-two">
 
                             <div class="service-items-title">
                                 <h4>
-                                    <a href="service-details.php">Droit de l’homme &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
+                                    <a href="desarmementCivil.php">Désarmément civile volontaire</a>
                                 </h4>
                             </div>
                             <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de droit de l'homme  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .</p>
+                                <p>En partenariat avec le Programme de Désarmement, Démobilisation, Relèvement Communautaire et Stabilisation(P-DDRCS).</p>
                             </div>
                             <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service1.png" alt="">
+                            <img src="assets/images/desarmement/desarmement1.png" alt="">
                                 <div class="service-items-icon-two">
                                     <i class="bi bi-arrow-right"></i>
                                 </div>
@@ -191,20 +208,20 @@
                         <!-- End service items box -->
                     </div>
                     <div
-                        class="col-md-6 col-xl-3">
+                        class="col-md-6 col-xl-4">
                         <!-- start service items box -->
                         <div class="service-items-box-two">
 
                             <div class="service-items-title">
                                 <h4>
-                                    <a href="transformationConflit.php">Tansformation des conflits</a>
+                                    <a href="droitHomme.php">Droit de l'homme</a>
                                 </h4>
                             </div>
                             <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Tansformation des conflits</p>
+                                <p>La SOA-P contribue au renforcement des systèmes et mécanismes régionaux sur les droits de l’homme en RDC</p>
                             </div>
                             <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service8.png" alt="">
+                                <img src="assets/images/droitHomme/droit1.png" alt="">
                                 <div class="service-items-icon-two">
                                     <i class="bi bi-arrow-right"></i>
                                 </div>
@@ -213,67 +230,25 @@
                         <!-- End service items box -->
                     </div>
                     <div
-                        class="col-md-6 col-xl-3">
+                        class="col-md-6 col-xl-4">
                         <!-- start service items box -->
                         <div class="service-items-box-two">
 
                             <div class="service-items-title">
                                 <h4>
-                                    <a href="educationElectoral.php">Education électorale
+                                    <a href="consolidationPaix.php">consolidation de la Paix
                                     </a>
                                 </h4>
                             </div>
                             <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Education électorale &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .</p>
-                            </div>
-                            <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service5.png" alt="">
-                                <div class="service-items-icon-two">
-                                    <i class="bi bi-arrow-right"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End service items box -->
-                    </div>
-                    <div
-                        class="col-md-6 col-xl-3">
-                        <!-- start service items box -->
-                        <div class="service-items-box-two">
-
-                            <div class="service-items-title">
-                                <h4>
-                                    <a href="observationElectoral.php">Observation électorale</a>
-                                </h4>
-                            </div>
-                            <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Observation électorale</p>
-                            </div>
-                            <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service6.png" alt="">
-                                <div class="service-items-icon-two">
-                                    <i class="bi bi-arrow-right"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End service items box -->
-                    </div>
-                    <div
-                        class="col-md-6 col-xl-3">
-                        <!-- start service items box -->
-                        <div class="service-items-box-two">
-
-                            <div class="service-items-title">
-                                <h4>
-                                    <a href="desarmementCivil.php">Désarmément civile volontaire
-                                    </a>
-                                </h4>
-                            </div>
-                            <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Désarmément civile volontaire
+                                <p>
+                                La SOA-P en appui aux activités de 
+				Désarmement, Démobilisation, réforme
+				 du Secteur de la sécurité et à l’Etat...
                                 </p>
                             </div>
                             <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service1.png" alt="">
+                            <img src="assets/images/blog/blog1.png" alt="">
                                 <div class="service-items-icon-two">
                                     <i class="bi bi-arrow-right"></i>
                                 </div>
@@ -282,20 +257,20 @@
                         <!-- End service items box -->
                     </div>
                     <div
-                        class="col-md-6 col-xl-3">
+                        class="col-md-6 col-xl-4">
                         <!-- start service items box -->
                         <div class="service-items-box-two">
 
                             <div class="service-items-title">
                                 <h4>
-                                    <a href="violenceBGenre.php">Violences basées sur le Genre</a>
+                                    <a href="jeunePaixSecurite.php">Jeune, paix et sécurité</a>
                                 </h4>
                             </div>
                             <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Violences basées sur le Genre   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.</p>
+                                <p>Promotion de la jeunesse pour le leadership, le maintien de la paix et le dévéloppement</p>
                             </div>
                             <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service2.png" alt="">
+                            <img src="assets/images/jeuneFemme/jeune1.png" alt="">
                                 <div class="service-items-icon-two">
                                     <i class="bi bi-arrow-right"></i>
                                 </div>
@@ -304,43 +279,103 @@
                         <!-- End service items box -->
                     </div>
                     <div
-                        class="col-md-6 col-xl-3">
+                        class="col-md-6 col-xl-4">
                         <!-- start service items box -->
                         <div class="service-items-box-two">
 
                             <div class="service-items-title">
                                 <h4>
-                                    <a href="psychoSociale.php">Prise en charge psycho-sociale</a>
-                                </h4>
-                            </div>
-                            <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Prise en charge psycho-sociale.</p>
-                            </div>
-                            <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service3.png" alt="">
-                                <div class="service-items-icon-two">
-                                    <i class="bi bi-arrow-right"></i>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End service items box -->
-                    </div>
-                    <div
-                        class="col-md-6 col-xl-3">
-                        <!-- start service items box -->
-                        <div class="service-items-box-two">
-
-                            <div class="service-items-title">
-                                <h4>
-                                    <a href="relanceSocioEconomique.php">Relance socio-économique
+                                    <a href="relanceSocioEconomique.php">Relèvement socio-économique
                                     </a>
                                 </h4>
                             </div>
                             <div class="service-items-content-two">
-                                <p>Détails concernant le domaine de Relance socio-économique .</p>
+                                <p>
+                                Participation de la SOA-P à la formation sur les principes 
+                                fondamentaux des transferts monétaires pour le cluster
+                                 protection donnée par le cash working Group en RDC...
+                                </p>
                             </div>
                             <div class="service-items-thumb-two">
-                                <img src="assets/images/service/service4.png" alt="">
+                            <img src="assets/images/relance/relance5.png" alt="">
+                                <div class="service-items-icon-two">
+                                    <i class="bi bi-arrow-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End service items box -->
+                    </div>
+                    <div
+                        class="col-md-6 col-xl-4">
+                        <!-- start service items box -->
+                        <div class="service-items-box-two">
+
+                            <div class="service-items-title">
+                                <h4>
+                                    <a href="psychoSociale.php">Santé et prise en charge psycho-sociale</a>
+                                </h4>
+                            </div>
+                            <div class="service-items-content-two">
+                                <p>
+                                Prise en charge médicale intégrée (soins de santé, nutrition et WASH)
+                                 et psychosociale des ex-combattants...
+                                </p>
+                            </div>
+                            <div class="service-items-thumb-two">
+                            <img src="assets/images/sante/sante12.png" alt="">
+                                <div class="service-items-icon-two">
+                                    <i class="bi bi-arrow-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End service items box -->
+                    </div>
+                    <div
+                        class="col-md-6 col-xl-4">
+                        <!-- start service items box -->
+                        <div class="service-items-box-two">
+
+                            <div class="service-items-title">
+                                <h4>
+                                    <a href="violenceBGenre.php">Violence basée sur le genre</a>
+                                </h4>
+                            </div>
+                            <div class="service-items-content-two">
+                                <p>
+                                formations de renforcement des capacités des organisations
+                                 féminines de la société civile(OFSC)
+                                </p>
+                            </div>
+                            <div class="service-items-thumb-two">
+                            <img src="assets/images/violence/violence7.png" alt="">
+                                <div class="service-items-icon-two">
+                                    <i class="bi bi-arrow-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End service items box -->
+                    </div>
+                    <div
+                        class="col-md-6 col-xl-4">
+                        <!-- start service items box -->
+                        <div class="service-items-box-two">
+
+                            <div class="service-items-title">
+                                <h4>
+                                    <a href="educationElectoral.php">
+                                    Education civique électorale et observation électorale
+                                    </a>
+                                </h4>
+                            </div>
+                            <div class="service-items-content-two">
+                                <p>
+                                Renforcement des capacités des organisations feminines
+                                et féministes de la société civile congolaise sur le
+                                leaderShip feminin et la participation polique de la femme
+                                </p>
+                            </div>
+                            <div class="service-items-thumb-two">
+                            <img src="assets/images/election/femme2.png" alt="">
                                 <div class="service-items-icon-two">
                                     <i class="bi bi-arrow-right"></i>
                                 </div>
@@ -360,7 +395,7 @@
         <!--==================================================-->
         <!-- Start Thrown Choose Area -->
         <!--==================================================-->
-            <div class="choose-area"> <div class="container">
+            <div class="choose-area otherIndex"> <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="choose-content">
@@ -413,75 +448,7 @@
         <!--==================================================-->
         <!-- Start Thrown Work Process Area -->
         <!--==================================================-->
-            <div class="work-process-area"> <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center">
-
-                            <div class="section-main-title work">
-                                <h2>Consolidation
-                                </h2>
-                                <h2>de la paix et
-                                </h2>
-                                <h2>stabilisation</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-single-box">
-                            <div class="work-process-thumb">
-                                <img src="assets/images/resource/choose-thumb.png" alt="" style="border-radius: 50%;">
-                                <div class="work-process-shape rotateme">
-                                    <img src="assets/images/resource/work-border-shape.png" alt="">
-                                </div>
-                                <div class="work-process-number">
-                                    <h4>01</h4>
-                                </div>
-                                <div class="work-process-content">
-                                  
-                                    <p>Un petit détails</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-single-box">
-                            <div class="work-process-thumb">
-                                <img src="assets/images/resource/work2.png" alt="">
-                                <div class="work-process-shape rotateme">
-                                    <img src="assets/images/resource/work-border-shape.png" alt="">
-                                </div>
-                                <div class="work-process-number">
-                                    <h4>02</h4>
-                                </div>
-                                <div class="work-process-content">
-                                   
-                                    <p>Un petit details.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="work-process-single-box work">
-                            <div class="work-process-thumb">
-                                <img src="assets/images/resource/work3.png" alt="">
-                                <div class="work-process-shape rotateme">
-                                    <img src="assets/images/resource/work-border-shape.png" alt="">
-                                </div>
-                                <div class="work-process-number">
-                                    <h4>03</h4>
-                                </div>
-                                <div class="work-process-content">
-                                   
-                                    <p>Un petit details.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+      
         </div>
         <!--==================================================-->
         <!-- End Thrown Work Process Area -->
@@ -568,51 +535,7 @@
         <!--==================================================-->
         <!-- Start Thrown Teatimonial Style Two Area -->
         <!--==================================================-->
-            <div class="testimonial-area style-two"> <div class="container">
-                <div class="row">
-                    <div class="testi_list2 owl-carousel">
-                        <div class="col-lg-12">
-                            <div class="testimonial-items-box">
-                                <div class="testimonial-item-thumb">
-                                    <img src="assets/images/testimonial/testi-3.png" alt="">
-                                </div>
-                                <div class="testimonial-item-content">
-
-                                    <div class="testimonial-discription">
-                                        <p>Témoignage d'un beneficiare de la SOA-P
-                                        </p>
-                                    </div>
-                                    <div class="testimonial-title">
-
-                                        <span>Fonction</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="testimonial-items-box">
-                                <div class="testimonial-item-thumb">
-                                    <img src="assets/images/testimonial/testi-3.png" alt="">
-                                </div>
-                                <div class="testimonial-item-content">
-
-                                    <div class="testimonial-discription">
-                                        <p>Témoignage d'un deuxieme beneficiare de la SOA-P
-                                        </p>
-                                    </div>
-                                    <div class="testimonial-title">
-
-                                        <span>Titre</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                 
-                </div>
-            </div>
+            
         </div>
         <!--==================================================-->
         <!-- Start Thrown Teatimonial Style Two Area -->
@@ -666,6 +589,10 @@
                                     <div class="contact-content">
                                         <h5>Envoyer un Mail</h5>
                                         <h3>soa.cd.rdc@gmail.com</h3>
+                                        <h3>
+                                        
+                        soa.paix.rdc@gmail.com
+                                        </h3>
                                     </div>
                                 </div>
                             </div>
@@ -765,115 +692,6 @@
         <!--==================================================-->
         <!-- Start Thrown Blog Area -->
         <!--==================================================-->
-            <div class="blog-area style-two"> <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title text-center">
-                            <div class="section-sub-title">
-                                <h4>Notre Blog</h4>
-                            </div>
-                            <div class="section-main-title">
-                                <h2>Visitez nos recentes</h2>
-                                <h2>Publications</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-single-box style-two">
-                            <div class="blog-thumb">
-                                <img src="assets/images/blog/blog1.png" alt="">
-                                <div class="blog-meta-date">
-                                    <h5>15</h5>
-                                    <span>May</span>
-                                </div>
-                            </div>
-                            <div class="blog-content style-two">
-                                <div class="blog-meta style-two">
-                                    <span>
-                                        <i class="bi bi-person"></i>By Admin</span>
-                                    <span>
-                                        <i class="bi bi-chat-left"></i>
-                                        (05)</span>
-                                </div>
-                                <div class="blog-title style-two">
-                                    <h4>
-                                        <a href="jeunePaixSecurite.php">
-											Derniere activité Jeune, paix et sécurité
-										</a>
-                                    </h4>
-                                </div>
-                                <div class="blog-btn style-two">
-                                    <a href="#">Read More
-                                        <i class="bi bi-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-single-box style-two">
-                            <div class="blog-thumb">
-                                <img src="assets/images/blog/blog2.png" alt="">
-                                <div class="blog-meta-date">
-                                    <h5>12</h5>
-                                    <span>Jun</span>
-                                </div>
-                            </div>
-                            <div class="blog-content style-two">
-                                <div class="blog-meta style-two">
-                                    <span>
-                                        <i class="bi bi-person"></i>By Admin</span>
-                                    <span>
-                                        <i class="bi bi-chat-left"></i>
-                                        (05)</span>
-                                </div>
-                                <div class="blog-title style-two">
-                                    <h4>
-                                        <a href="consolidationPaix.php">Forum de consolidation de la paix</a>
-                                    </h4>
-                                </div>
-                                <div class="blog-btn style-two">
-                                    <a href="#">Read More
-                                        <i class="bi bi-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-single-box style-two">
-                            <div class="blog-thumb">
-                                <img src="assets/images/blog/blog3.png" alt="">
-                                <div class="blog-meta-date">
-                                    <h5>01</h5>
-                                    <span>Aout</span>
-                                </div>
-                            </div>
-                            <div class="blog-content style-two">
-                                <div class="blog-meta style-two">
-                                    <span>
-                                        <i class="bi bi-person"></i>By Admin</span>
-                                    <span>
-                                        <i class="bi bi-chat-left"></i>
-                                        (05)</span>
-                                </div>
-                                <div class="blog-title style-two">
-                                    <h4>
-                                        <a href="transformationConflit.php">Transformation des conflits dans le territoire de KALEHE</a>
-                                    </h4>
-                                </div>
-                                <div class="blog-btn style-two">
-                                    <a href="#">Read More
-                                        <i class="bi bi-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         <!--==================================================-->
         <!-- End Thrown Blog Area -->

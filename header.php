@@ -69,7 +69,7 @@
     <body>
     <div class="loader_bg">
 		<div class="loader"></div>
-		<h4 class="loading-title">LOADING...</h4>
+		<h4 class="loading-title">SOA-P...</h4>
 	</div>
         <!-- Start Thrown Sidebar Area -->
         <!--==================================================-->
@@ -89,6 +89,7 @@
                     <a href="#">
                         <i class="bi bi-envelope"></i>
                         soa.cd.rdc@gmail.com</a>
+                   
                 </span>
             </div>
             <div class="topbar-social-item style-two">
@@ -133,26 +134,31 @@
                                     <a href="index.php">Accueil</a>
                                 </li>
                                 <li>
-                                    <a href="about.php">A Propos de nous</a>
+                                    <a href="about.php">Qui sommes nous</a>
                                 </li>
                                 <li>
-                                    <a href="#">Service
+                                    <a href="#">Domaines
                                         <i class="fas fa-chevron-down"></i>
                                     </a>
                                     <div class="sub-menu">
                                         <ul>
-                                            
+                                        <li><a href="desarmementCivil.php">Désarmément civile volontaire</a></li>
                                             <li><a href="droitHomme.php">Droit de l’homme</a></li>
-                                            <li><a href="violenceBGenre.php">VBG</a></li>
-                                            <li><a href="promotionDemocratie.php">PDGPI</a></li>
-                                            <li><a href="relanceSocioEconomique.php">RSEAPVC</a></li>
-                                            <li><a href="desarmementCivil.php">DDRD</a></li>
-                                            <li><a href="protectionCivil.php">PCEVA </a></li>
-                                            <li><a href="relanceCommunautaireStab.php">RCS</a></li>
-                                            <li><a href="securiteAlimentaire.php">Sécurité alimentaire et moyens de subsistance</a></li>
-                                            <li><a href="psychoSociale.php">prise en charge psycho-sociale</a></li>
-                                            <li><a href="educationElectoral.php">ECEOE</a></li>
-                                            
+
+                                            <li><a href="consolidationPaix.php">Consolidation de la paix et stabilisation</a></li>
+                                         
+                                            <li><a href="jeunePaixSecurite.php">Jeune, paix et sécurité</a></li>
+                                          
+                                                
+                                            <li><a href="relanceSocioEconomique.php">Relèvement socio-économique</a></li>
+                                             <li><a href="psychoSociale.php">Santé et prise en charge psycho-sociale</a></li>
+                                           
+                                            <li><a href="violenceBGenre.php">Violences basées sur le genre</a></li>
+                                            <li><a href="educationElectoral.php">Volet électorale</a>
+                                         <!--<li><a href="protectionCivil.php">Protection et réduction des violences armés </a></li>
+                                        -->
+                                           
+                                        </li>
                                         </ul>
                                     </div>
                                 </li>
@@ -169,7 +175,7 @@
                                 </ul>
                             </div>
                             <div class="thrown-btn">
-                                <a class="header-button" href="contact-us.html">Contactez nous
+                                <a class="header-button" href="contact-us.php">Contactez nous
                                     <span></span>
                                 </a>
                             </div>
@@ -226,58 +232,38 @@
                                             <a href="index.php" data-toggle="dropdown">Accueil</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="about.html" data-toggle="dropdown">A Propos de
+                                            <a href="about.php" data-toggle="dropdown">A Propos de
                                                 											nous</a>
                                         </li>
 
                                         <li class="dropdown">
-                                            <a href="#" data-toggle="dropdown">Service
+                                            <a href="#" data-toggle="dropdown">Domaines
                                                 <i class="icon-arrow"></i>
                                             </a>
+                                           
                                             <ul class="dropdown-menu">
-                                                <li>
-                                                    <a href="about.php">Droit de l’homme</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Violences basées sur le Genre</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Promotion de la Démocratie et la Gouvernance
-                                                        													participative et inclusive</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Relance socio-économique et autonomisation des
-                                                        													populations victimes des conflits</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Désarmement, Démobilisation, Réinsertion,
-                                                        													Réintégration, Résilience des ex-combattants démobilisés</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Protection des civils et réduction des violences
-                                                        													armées</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Relèvement communautaire et la Stabilisation</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Sécurité alimentaire et moyens de subsistance</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">prise en charge psycho-sociale</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Education civique électorale et observation
-                                                        													électoraleService</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about.php">Tous nos service</a>
-                                                </li>
-                                            </ul>
+                                        <li><a href="desarmementCivil.php">Désarmément civile volontaire</a></li>
+                                            <li><a href="droitHomme.php">Droit de l’homme</a></li>
+
+                                            <li><a href="consolidationPaix.php">Consolidation de la paix et stabilisation</a></li>
+                                         
+                                            <li><a href="jeunePaixSecurite.php">Jeune, paix et sécurité</a></li>
+                                          
+                                                
+                                            <li><a href="relanceSocioEconomique.php">Relèvement socio-économique</a></li>
+                                             <li><a href="psychoSociale.php">Santé et prise en charge psycho-sociale</a></li>
+                                           
+                                            <li><a href="violenceBGenre.php">Violences basées sur le genre</a></li>
+                                            <li><a href="educationElectoral.php">Volet électorale</a>
+                                         <!--<li><a href="protectionCivil.php">Protection et réduction des violences armés </a></li>
+                                        -->
+                                           
+                                        </li>
+                                        </ul>
                                         </li>
 
                                         <li class="dropdown">
-                                            <a href="contact-us.html" data-toggle="dropdown">Contact</a>
+                                            <a href="contact-us.php" data-toggle="dropdown">Contact</a>
                                         </li>
                                     </ul>
                                 </div>

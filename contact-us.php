@@ -36,7 +36,7 @@
 						</div>
 						<div class="bratcome-text">
 							<ul>
-								<li><a href="index.html">Accueil</a></li>
+								<li><a href="index.php">Accueil</a></li>
 								<li>Contact</li>
 							</ul>
 						</div>
@@ -129,12 +129,12 @@
 							<div class="col-lg-12 col-md-12">
 								<div class="form-box">
 									<textarea required name="massage" id="massage" cols="30" rows="10"
-										placeholder="Comment"></textarea>
+										placeholder="Message...."></textarea>
 								</div>
 							</div>
 							<div class="col-lg-12 col-md-12">
 								<div class="form-box-button inner">
-									<button type="Submit">Envoyer Message</button>
+									<button type="Submit">Envoyer</button>
 								</div>
 							</div>
 						</div>
@@ -155,7 +155,7 @@
 		<div class="container-fluid p-0">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15952.521096519715!2d29.202059461594093!3d-1.6667426530036415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2scd!4v1698914525299!5m2!1sfr!2scd" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d15952.521096519715!2d29.202059461594093!3d-1.6667426530036415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2scd!4v1698914525299!5m2!1sfr!2scd" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</div>
 			</div>
 		</div>
